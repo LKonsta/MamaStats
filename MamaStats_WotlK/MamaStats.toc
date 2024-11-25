@@ -1,0 +1,13 @@
+## Interface: 11304
+## Version: 1.0.0
+## Title: MamaStats
+## Notes: Mama stats for ilvl
+## Author: Mamatun
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDetours-1.0\LibDetours-1.0.lua
+Libs\LibClassicInspector\LibClassicInspector.lua
+
+MamaStats.lua
+gearscore.lua
