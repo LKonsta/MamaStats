@@ -1,9 +1,9 @@
 ## Interface: 30400
-## Title: MamaStats2
+## Title: MamaStats
 ## Notes: <missing>
 ## Author: Mamatun
 ## Version: 0.0.1
-## SavedVariables: MamaStats2DB
+## SavedVariables: MamaStatsDB
 ## OptionalDeps: Ace3, TipHookerLib, StatLogicLib, LibBabble-Inventory-3.0
 ## X-Embeds: Ace3, TipHookerLib, StatLogicLib, LibBabble-Inventory-3.0
 
@@ -11,4 +11,4 @@
 embeds.xml
 
 # Core
-MamaStats2.lua
+MamaStats.lua
